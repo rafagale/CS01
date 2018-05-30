@@ -5,3 +5,10 @@ F:\DAW1\C#\CosasVarias\CosasVarias\bin\Debug\CosasVarias.exe
 F:\DAW1\C#\CosasVarias\CosasVarias\bin\Debug\CosasVarias.pdb
 F:\DAW1\C#\CosasVarias\CosasVarias\obj\Debug\CosasVarias.exe
 F:\DAW1\C#\CosasVarias\CosasVarias\obj\Debug\CosasVarias.pdb
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\bin\Debug\CosasVarias.exe.config
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\bin\Debug\CosasVarias.exe
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\bin\Debug\CosasVarias.pdb
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\obj\Debug\CosasVarias.csprojAssemblyReference.cache
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\obj\Debug\CosasVarias.csproj.CoreCompileInputs.cache
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\obj\Debug\CosasVarias.exe
+F:\DAW1\C#\CS01\CosasVarias\CosasVarias\obj\Debug\CosasVarias.pdb

@@ -12,7 +12,6 @@ namespace CosasVarias
         static void Main(string[] args)
         {
 
-           
 
         }//Main
 
@@ -22,8 +21,7 @@ namespace CosasVarias
         pedir:
             try
             {
-                Console.WriteLine("Introduce un numero");
-                frase = Console.ReadLine();
+                hablar.Speak(frase);
             }
             catch (Exception)
             {

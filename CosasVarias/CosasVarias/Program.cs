@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace CosasVarias
 {
-    class Program
+    public class Leer
     {
         static void Main(string[] args)
         {
 
-            
+           
 
         }//Main
 
